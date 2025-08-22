@@ -3,9 +3,9 @@ A Python-based AI agent designed for dynamic research assistance. Powered by Goo
 ## Features
 
 - **Multi-tool orchestration:** Combines web search, Wikipedia query, and save-to-file capabilities intelligently
-- **Powered by Google Vertex AI Gemini:** Uses Google’s latest Gemini 2.5 Pro LLM for natural language understanding and generation
+- **Powered by Google Vertex AI Gemini:** Uses Google’s Gemini 2.5 Pro LLM for natural language understanding and generation
 - **Structured output:** Returns research summaries in a clean, predefined schema for easy consumption or further automation
-- **Environment ready:** Leverages `.env` for secure, flexible configuration of Google Cloud credentials and parameters
+- **Environment ready:** Uses `.env` for secure, flexible configuration of Google Cloud credentials and parameters
 - **Interactive CLI:** Query the agent via a simple command-line interface, with verbose tool execution logging
 - **Extendable toolset:** Modular tooling makes it easy to add more information sources or capabilities
 
